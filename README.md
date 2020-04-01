@@ -1,2 +1,4 @@
-# Scraping-Word-Embedding-BiLSTM-NLP-Project
-Text classification of job titles from skills
+# NLP-Semantic text classification of Job titles from skills.
+1. Scraped data from indeed using beautiful soup.
+2. Used pretrained word embedding.
+3. Built Bi-LSTM model
